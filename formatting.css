@@ -59,12 +59,12 @@
                 margin: 0 0 32px 17px; 
         }
 
-        #objective { 
+        #quote { 
                 width: 500px; 
                 float: left; 
         }
 
-        #objective p { 
+        #quote p { 
                 font-family: Georgia; 
                 font-style: italic; 
                 color: #666; 
