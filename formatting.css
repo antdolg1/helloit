@@ -24,15 +24,22 @@
         }
 
         h1 { 
+<<<<<<< HEAD
                 border-bottom-style: solid; 
                 border-bottom-color: black;
+=======
+>>>>>>> 78ef251d0d7a3b11731af4660ea56bc9e048cd81
                 margin: 0 0 16px 0; 
                 padding: 0 0 16px 0; 
                 font-size: 42px; 
                 font-weight: bold; 
                 letter-spacing: -2px; 
+<<<<<<< HEAD
                 /*border-bottom: 1px solid #999;*/
                 
+=======
+                border-bottom: 1px solid #999; 
+>>>>>>> 78ef251d0d7a3b11731af4660ea56bc9e048cd81
         }
 
         h2 { 
